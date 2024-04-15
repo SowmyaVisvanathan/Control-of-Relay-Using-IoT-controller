@@ -1,7 +1,7 @@
 #### NAME : Sowmya V
 #### REG NO : 212222110045
 
-# Experiment 1 : Control of Relay Using IoT controller
+# Experiment 2 : Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
